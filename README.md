@@ -1,6 +1,9 @@
 # reactive-group
+
+[![Gitter Chat](https://badges.gitter.im/Join%20Chat.svg)](https://groups.google.com/g/reactive-group)
+
 Reactive Group Bill Of Materials.
 
 ## Contributing
 
-请查看 [贡献计划](./CONTRIBUTING.md)
+[How to contribute](./CONTRIBUTING.md)
